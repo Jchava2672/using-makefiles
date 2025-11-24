@@ -40,7 +40,7 @@ You will see:
 
 ## 2. Your Task
 
-### Part A — Implement Float Arithmetic Functions
+### Part A: Implement Float Arithmetic Functions
 
 In `arith_utils.c`, implement **four** functions:
 
@@ -57,7 +57,7 @@ In `arith_utils.c`, implement **four** functions:
 
 ---
 
-### Part B — Use Them in `main.c`
+### Part B : Use Them in `main.c`
 
 `main.c` should:
 
@@ -84,7 +84,7 @@ float divide(float a, float b);
 #endif
 ```
 
-### `arith_utils.c` (you complete)
+### `arith_utils.c` (you complete it)
 
 ```c
 #include "arith_utils.h"
@@ -195,9 +195,9 @@ make clean
 
 ---
 
-## 6. Submission (VS Code GUI)
+## 6. Submission 
 
-1. Open **Source Control**
+1. Open **Source Control** in the editor (third icon from the top)
 2. Stage:
 
    * `main.c`
